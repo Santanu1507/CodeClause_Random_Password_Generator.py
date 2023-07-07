@@ -11,11 +11,10 @@ This is a simple Python script that generates a random password based on specifi
 ## Requirements
 
 - Python 3.x
-- Tkinter (should be pre-installed with Python)
 
 ## Usage
 
-1. Run the script using Python: `python password_generator.py`
+1. Run the script using Python.
 2. The script will generate a random password and display it in the console.
 
 ## Configuration

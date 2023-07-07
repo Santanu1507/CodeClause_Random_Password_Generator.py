@@ -7,6 +7,11 @@ This is a simple Python script that generates a random password based on specifi
 - Generates a random password with customizable length
 - Includes at least one character from each character set
 - Shuffles the characters to increase randomness
+  
+## Requirements
+
+- Python 3.x
+- Tkinter (should be pre-installed with Python)
 
 ## Usage
 
